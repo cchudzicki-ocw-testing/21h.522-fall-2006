@@ -4,7 +4,11 @@ description: This resource contains questions on topics zen and creativity, zen 
   bushido and swordsmanship.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/622076730116f02d818d9b5f1094828b_04studyq_suzuki.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: 04studyq_suzuki.pdf
+type: OCWFile
 uid: 62207673-0116-f02d-818d-9b5f1094828b
 ---

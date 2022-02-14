@@ -4,7 +4,12 @@ description: Lecture presentation about christianity, missionary work, expansion
   christianity, martyrdoms and persecution and suppression.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/5314dfdc21a1d2bc9776f1131a0a7c36_lec14.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec14.pdf
+type: OCWFile
 uid: 5314dfdc-21a1-d2bc-9776-f1131a0a7c36
 ---

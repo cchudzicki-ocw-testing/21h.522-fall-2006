@@ -3,7 +3,12 @@ content_type: resource
 description: This resource contains an overview of Tokugawa society.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/3c3aec4bc84ac764ac6de792422b21c2_dl_lec18.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: dl_lec18.pdf
+type: OCWFile
 uid: 3c3aec4b-c84a-c764-ac6d-e792422b21c2
 ---

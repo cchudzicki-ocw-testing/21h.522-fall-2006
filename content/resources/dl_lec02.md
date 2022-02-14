@@ -3,7 +3,12 @@ content_type: resource
 description: This resource explains the emergence of the warrior ethos.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/f936dc66e000f74be06da67691cc75d6_dl_lec02.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: dl_lec02.pdf
+type: OCWFile
 uid: f936dc66-e000-f74b-e06d-a67691cc75d6
 ---
