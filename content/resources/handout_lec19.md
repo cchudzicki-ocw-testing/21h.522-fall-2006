@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: handout_lec19.pdf
-type: OCWFile
 uid: 0be0ae76-2904-48ac-44ef-5c42f9d7cfc3
 ---

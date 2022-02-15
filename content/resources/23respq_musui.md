@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: 23respq_musui.pdf
-type: OCWFile
 uid: f2687d24-324b-0628-db3d-24349b01a446
 ---

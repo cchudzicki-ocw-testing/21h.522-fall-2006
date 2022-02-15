@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: 20respq_saikaku.pdf
-type: OCWFile
 uid: f8e1987e-e588-82d2-aff8-ffe56d06976b
 ---

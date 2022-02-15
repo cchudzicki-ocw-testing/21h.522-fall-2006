@@ -10,6 +10,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: 11studyq_mccull.pdf
-type: OCWFile
 uid: f540476e-9aef-db85-d13d-df15c455e8e4
 ---

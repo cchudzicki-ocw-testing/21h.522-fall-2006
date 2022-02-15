@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: 03studyq_heike.pdf
-type: OCWFile
 uid: 71f2f62c-8613-0034-7a04-15958ae828ef
 ---

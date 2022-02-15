@@ -9,6 +9,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: 04studyq_suzuki.pdf
-type: OCWFile
 uid: 62207673-0116-f02d-818d-9b5f1094828b
 ---

@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: 03study1_hoichi.pdf
-type: OCWFile
 uid: 146a1134-8dcc-d933-a590-f9d33d21ffe8
 ---

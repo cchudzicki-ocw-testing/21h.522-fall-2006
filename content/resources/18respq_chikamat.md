@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: 18respq_chikamat.pdf
-type: OCWFile
 uid: 52d7baa3-c82a-4364-09a0-f93e72fa370f
 ---

@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: 12respq_medaesth.pdf
-type: OCWFile
 uid: 90991e52-4a5c-cfea-5f44-8646355eab76
 ---
