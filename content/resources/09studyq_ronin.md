@@ -5,6 +5,7 @@ description: This resource contains questions on topics such as the ronin incide
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/ea011f81a28ab64b718fae59cd5d135f_09studyq_ronin.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
