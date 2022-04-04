@@ -91,15 +91,15 @@ The same standards for your papers apply to the essays on the exams. Essays that
 
 My grading scale for the exams is:
 
-A = 96-100    
-A- = 91-95    
-B+ = 87-90    
-B = 82-86    
-B- = 78-81    
-C+ = 74-77    
-C = 69-73    
-C- = 65-68    
-E = 55-65    
+A = 96-100     
+A- = 91-95     
+B+ = 87-90     
+B = 82-86     
+B- = 78-81     
+C+ = 74-77     
+C = 69-73     
+C- = 65-68     
+E = 55-65     
 F = Below 55
 
 ## {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
@@ -135,7 +135,7 @@ Historical/Geographical Overview
 {{< tdclose >}}{{< tdopen >}}
 Emergence of the Warrior Ethos
 {{< tdclose >}}{{< tdopen >}}
-**Watch Seven Samurai (Akira Kurosawa, 1954; 160 min) ** by Ses #5
+**Watch Seven Samurai (Akira Kurosawa, 1954; 160 min)  by Ses #5**
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
