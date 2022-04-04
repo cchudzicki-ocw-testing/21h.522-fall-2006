@@ -43,7 +43,7 @@ Sadler, pp. 22-262.
 Historical/Geographical Overview
 {{< tdclose >}}{{< tdopen >}}
 
-Duus, Peter. "Feudalism." *Kodansha Encyclopedia of Japan. *  Vol. 2. Tokyo, Japan: Kodansha Ltd., 1987, pp. 263-267. ISBN: 9780870116209.
+Duus, Peter. "Feudalism." *Kodansha Encyclopedia of Japan. * Vol. 2. Tokyo, Japan: Kodansha Ltd., 1987, pp. 263-267. ISBN: 9780870116209.
 
 Shinoda, Minoru. "Kamakura History (1185-1333)." *Kodansha Encyclopedia of Japan.* Vol. 3. Tokyo, Japan: Kodansha Ltd., 1987, pp. 169-172. ISBN: 9780870116209.
 
