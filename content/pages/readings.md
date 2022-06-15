@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about additional reading materials
+  for the course.
 draft: false
 learning_resource_types:
 - Readings

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section contains an overview and list of materials for the
+  course, required texts, recommended texts, course description, films, grading policies,
+  guidelines to grading and calendar table.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
