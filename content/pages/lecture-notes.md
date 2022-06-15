@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The lecture notes section contains a table for week, topics, notes and
+  handouts.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

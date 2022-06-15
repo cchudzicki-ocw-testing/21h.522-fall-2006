@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains study questions for some of the course reading
+  assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
